@@ -1,0 +1,25 @@
+My name is Pulavarthy karthik 30 years old, born and leaving in Hyderabad   
+
+I have done my graduation in B.Tech which was completed 2012 and Post graduation in MBA which was completed in 2014.   
+
+Coming to working experience am having around 6+ years of experience in both IT and Non IT  industry and relevant 3+ years of experience in Azure cloud & Azure devops.   
+
+Coming tools I have work    
+
+I have used Azure cloud for hosting various IaaS & PaaS services   
+
+I have used Terraform for Infrastructure deployment to provision Azure cloud resources    
+
+Used Git as version control systems 
+
+Azure DevOps for Build and Release management to implement CI/CD Pipelines 
+
+Coming to Azure Cloud, I used to provision various services in Azure cloud wrt Compute, Storage and Networking realted services like 
+
+Azure Virtual Machines, Azure Storage Accounts, Azure Vitrual Netowrks, WebApps etc.
+
+Coming to Azure DevOps, We are using  
+
+Azure Boards for tracking work items, issues tasks 
+
+Azure Repos for storing our source code and Auzre Pipelines for creating End to End pipelines
